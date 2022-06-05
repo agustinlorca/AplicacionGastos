@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+  font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+}
+
+#header {
+  background-color: rgb(185, 0, 0) !important;
+}
